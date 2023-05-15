@@ -7,6 +7,7 @@ Yeni bir görev ekleme
 
 # Kullanılan Teknolojiler
 Swift programlama dili
+
 UIKit framework'ü
 
 # Nasıl Kullanılır
